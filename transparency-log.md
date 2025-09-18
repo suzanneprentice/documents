@@ -19,6 +19,10 @@ necessary. This log is updated once every six months.
 
 ## Code of Conduct Reports and Responses
 
+### September 17, 2025
+
+There have been no incidents reported to the Code of Conduct committee since the last log update.
+
 ### November 6, 2024
 
 The Code of Conduct committee was made aware of one conference participant who had a multi-faceted issue/concern with how welcoming and inclusive the event was upon entering. Upon follow-up, the committee determined that no code of conduct violations were made.
