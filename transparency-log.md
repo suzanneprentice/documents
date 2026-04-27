@@ -19,6 +19,10 @@ necessary. This log is updated once every six months.
 
 ## Code of Conduct Reports and Responses
 
+### April 27, 2026
+
+Since the last log update, the Code of Conduct committee was contacted in slack about a member sending spam-like messages. Shortly after, the contact@us-rse.org address received another report, from a different individual, of spam-like messages coming from the same member. The Code of Conduct verified the individual's membership, ensuring the user understood the purpose of the US-RSE group. The subsequent CoC review and investigation determined that no violation was made and action was not warranted at the time. 
+
 ### September 17, 2025
 
 There have been no incidents reported to the Code of Conduct committee since the last log update.
